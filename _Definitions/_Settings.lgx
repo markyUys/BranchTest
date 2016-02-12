@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setting
+	ID="_settings"
+	>
+	<GlobalCSS
+		ID="themeProfessionalBlue"
+		Theme="ProfessionalBlue"
+	/>
+	<Application
+		Caption="TheReport"
+	/>
+	<Path
+		AppPath="http://localhost/BranchTest"
+	/>
+	<General
+		RepoFriendly="True"
+		ScriptingLanguage="JavaScript"
+	/>
+	<Connections/>
+	<TeamDevelopment/>
+</Setting>
